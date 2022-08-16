@@ -77,7 +77,7 @@ Se pudo observar que en este circuito, a una mayor cantidad de frecuencia el val
 
 1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
-* El capacitor actúa como un acumulador de carga
+* El capcitor no actua en el circuito ya que no hay corriente que fluya
 
 * La bobina actúa como un corto circuito
 

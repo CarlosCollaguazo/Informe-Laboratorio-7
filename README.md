@@ -56,6 +56,42 @@ Circuito con inductores
 
 # Respuesta a Interrogantes
 
+1.- Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
+
+Circuito con capacitores
+
+![image](https://user-images.githubusercontent.com/105715717/184933741-94eb5700-303d-40bd-8ab0-1aa5c3698ed5.png)
+
+Se pudo observar que en este circuito, a una mayor cantidad de frecuencia el valor del voltaje pico (Vp) reducia, y viseversa.
+
+Circuito con inductores
+
+
+Se pudo observar que en este circuito, a una mayor cantidad de frecuencia el valor del voltaje pico (Vp) aumentaba, y viseversa.
+
+9.5 Preguntas
+
+
+1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
+
+* El capacitor actúa como un acumulador de carga
+
+* La bobina actúa como un corto circuito
+
+2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+
+*El capacitor se carga y descarga tantas veces como varíe el voltaje
+
+*La bobina produce un campo magnético que varía continuamente
+
+
+3.- ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los
+circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores
+distintos?
+
+
+4.- ¿Qué son los valores eficaces de voltaje y corriente?
+
 # Video
 
 

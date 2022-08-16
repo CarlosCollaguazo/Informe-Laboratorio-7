@@ -27,6 +27,31 @@ NRC: 7310
 
 # Resolución del Problema
 
+1.- Construya en el protoboard el circuito mostrado en la Figura 1.
+
+a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los
+valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
+
+b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores
+de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
+
+c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la
+frecuencia entre los valores 0, 10, 50, 100, 500, 1000 .
+
+![image](https://user-images.githubusercontent.com/105715717/184933041-9d2b0bd4-f18a-48bc-b709-158eaaa7485e.png)
+
+
+![image](https://user-images.githubusercontent.com/105715717/184932966-7e1a50d8-0b29-4056-9f88-da12b5b3c460.png)
+
+
+Circuito con capacitores
+
+![image](https://user-images.githubusercontent.com/105715717/184933487-2d0ed23e-a4fc-4e89-b82c-3107968ac61a.png)
+
+
+Circuito con inductores
+
+![image](https://user-images.githubusercontent.com/105715717/184933285-c7e60724-ad60-4088-9706-57114a2760c6.png)
 
 
 # Respuesta a Interrogantes

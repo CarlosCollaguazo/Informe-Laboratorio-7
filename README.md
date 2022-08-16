@@ -101,6 +101,9 @@ los elementos están conectados en paralelo.
 
 4.- ¿Qué son los valores eficaces de voltaje y corriente?
 
+Los valores eficaces de voltaje y corriente son valores que producen la misma disipación de
+calor (potencia) que una corriente continua
+
 # Video
 
 https://youtu.be/iheUPW5DIYo

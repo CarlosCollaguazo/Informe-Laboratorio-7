@@ -66,6 +66,8 @@ Se pudo observar que en este circuito, a una mayor cantidad de frecuencia el val
 
 Circuito con inductores
 
+![image](https://user-images.githubusercontent.com/105715717/184940642-dde14dbe-31c9-4443-9e7a-0012fcf25fff.png)
+
 
 Se pudo observar que en este circuito, a una mayor cantidad de frecuencia el valor del voltaje pico (Vp) aumentaba, y viseversa.
 

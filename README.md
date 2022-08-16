@@ -117,36 +117,14 @@ https://youtu.be/iheUPW5DIYo
 
 # Bibliografía
 
-la fisica y quimica. (15 de Julio de 2022). la fisica y quimica. Obtenido de la fisica y quimica:
+Finaltest. (15 de Agosto de 2022). finaltest. Obtenido de finaltest: 
 
-https://lafisicayquimica.com/teorema-de-transferencia-de-potencia-maxima/
+https://www.finaltest.com.mx/product-p/art-9.htm
 
-Uniandes. (14 de Julio de 2022). Uniandes. Obtenido de Uniandes: 
+MecatrónicaLATAM. (16 de Agosto de 2022). MecatrónicaLATAM. Obtenido de MecatrónicaLATAM: 
 
-http://wwwprof.uniandes.edu.co/~ant-
+https://www.mecatronicalatam.com/es/tutoriales/electronica/componentes-electronicos/inductor/
 
-sala/cursos/FDC/Contenidos/06_Thevenin_Norton_Maxima_Transferencia_de_Potencia.pdf
+MecatrónicaLATAM. (16 de Agosto de 2022). MecatrónicaLATAM. Obtenido de MecatrónicaLATAM: 
 
-wikipedia. (14 de Julio de 2022). wikipedia. Obtenido de wikipedia: 
-
-https://es.wikipedia.org/wiki/Teorema_de_máxima_potencia#:~:text=En%20ingenierí
-
-a%20eléctrica%2C%20electricidad%20y,a%20la%20resistencia%20de%20fuente.
-
-* AREATECNOLOGIA. (8 de Julio de 2022). AREATECNOLOGIA. Obtenido de AREATECNOLOGIA:
-
-https://www.areatecnologia.com/electricidad/teorema-de-thevenin-y-
-
-norton.html#:~:text=El%20valor%20de%20la%20resistencia,interruptor%20abierto%2
-
-20(circuito%20abierto).
-
-* Hyperphysics. (8 de Julio de 2022). hyperphysics. Obtenido de hyperphysics:
-
-http://hyperphysics.phy-astr.gsu.edu/hbasees/electric/thevenin.html
-
-* wikipedia. (8 de Julio de 2022). wikipedia. Obtenido de wikipedia:
-
-https://es.wikipedia.org/wiki/Teorema_de_Thévenin
-
-* Floyd, T. L. (2022). Principios De Circuitos Electricos C/Cd Rom (8.a ed.). PRENTICE HALL/PEARSON.
+https://www.mecatronicalatam.com/es/tutoriales/electronica/componentes-electronicos/capacitor/

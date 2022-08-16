@@ -89,6 +89,13 @@ Se pudo observar que en este circuito, a una mayor cantidad de frecuencia el val
 circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores
 distintos?
 
+El voltaje entre los dos capacitores al estar en un circuito paralelo no va a variar aunque los
+valores de los capacitores sean distintos pero si el voltaje del capacitor equivalente, en las
+bobinas es el mismo criterio porque al estar conectados en paralelo el voltaje va ser el mismo.
+En cuanto a la corriente los capacitores vas a tener otra impedancia por ende tendrán otra
+corriente, y en las bobinas seguimos el mismo principio de las corrientes son diferentes cuando
+los elementos están conectados en paralelo.
+
 
 4.- ¿Qué son los valores eficaces de voltaje y corriente?
 

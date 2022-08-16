@@ -1,5 +1,5 @@
 # Informe-Laboratorio-7
-# Informe-Laboratorio-6
+
 Universidad de las Fuerzas Armadas (ESPE)
 
 Nombres: Carlos Collaguazo, Joshua Hernández, Wiliam Cahuatijo
